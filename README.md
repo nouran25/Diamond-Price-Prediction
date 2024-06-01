@@ -33,25 +33,37 @@ table: Width of the top of the diamond relative to the widest point (43--95)
 The project follows a structured data science workflow, including:
 
 Data cleaning and preprocessing
+
 Exploratory data analysis and visualization
+
 Feature engineering and selection
+
 Model development and evaluation
+
 Through this process, the project aims to identify the key factors that influence diamond prices and build a predictive model that can estimate the price of a diamond based on its attributes.
 
 ## 🎓 Educational Value
 This project serves as an educational demonstration of applying data science techniques to real-world scenarios. It highlights the following key learning outcomes:
 
 Understanding the importance of data quality and preprocessing
+
 Gaining insights through exploratory data analysis and visualization
+
 Applying regression algorithms for predictive modeling
+
 Evaluating model performance and interpreting results
+
 Communicating findings and insights effectively
+
 By working on this project, I have developed a strong foundation in data science concepts and techniques, as well as the ability to apply them to practical business problems.
 
 ## 🚀 Potential Impact
 The Diamond Price Predictor project has the potential to provide valuable insights for businesses in the diamond industry. By accurately predicting diamond prices based on their attributes, this tool can assist in:
 
 Pricing strategy optimization
+
 Inventory management and valuation
+
 Market trend analysis and forecasting
+
 The project demonstrates the power of data science in driving data-driven decision-making and improving business outcomes.
