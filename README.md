@@ -31,7 +31,7 @@ table: Width of the top of the diamond relative to the widest point (43--95)
 
 The project follows a structured data science workflow, including:
 
-3# Data cleaning and preprocessing
+Data cleaning and preprocessing
 Exploratory data analysis and visualization
 Feature engineering and selection
 Model development and evaluation
